@@ -1,2 +1,1 @@
-# Proyecto-final
-aca presentaremos el pyoyecto final y la actividad extra
+El programa analiza los datos de edades, hijos, conyuges, propiedades y salarios para darnos un valor de un seguro sumandole las tarifas segun los casos. Usamos variables definidas para los recargos. Podríamos implementar botones para las opciones de SI y NO para evitarnos respuestas no deseadas. Tenemos que considerar cuando la respuesta es NO, para ello usamos el IF. Tambien podemos implementar mensajes de alerta en caso no se cumplan con los tipos de datos que estamos solicitando.
